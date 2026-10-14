@@ -130,7 +130,7 @@ const fingerDexProject: Project = {
 const codepenProject: Project = {
   name: "codepen",
   blurb:
-    "Codepen is a website which allows you to develop fun things in the web. I have a profile on their with a bunch of little tid bits I've built in the past.",
+    "Codepen is a website which allows you to develop fun things in the web. I have a profile on there with a bunch of little tid bits I've built in the past.",
   tags: ["ReactJS", "PUG", "CSS"],
   href: "https://codepen.io/craycrafty",
 };
