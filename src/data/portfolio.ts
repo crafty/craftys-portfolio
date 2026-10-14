@@ -112,11 +112,12 @@ export const jobs: Job[] = [
   },
 ];
 
-const placeholderProject: Project = {
-  name: "[PROJECT NAME]",
-  blurb: "[Placeholder text for a future project.]",
-  tags: ["[TECH]", "[TECH]", "[TECH]"],
-  href: null,
+const nullfbProject: Project = {
+  name: "nullfb.co",
+  blurb:
+    "An online store front for my fingerboard company NullFB. We specialize in making high quality decks and concrete obstacles.",
+  tags: ["shopify", "squarespace"],
+  href: "https://nullfb.co/",
 };
 
 const fingerDexProject: Project = {
@@ -138,7 +139,7 @@ const codepenProject: Project = {
 export const projects: Project[] = [
   fingerDexProject,
   codepenProject,
-  placeholderProject,
+  nullfbProject,
 ];
 
 export const contact = {
